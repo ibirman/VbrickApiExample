@@ -9,7 +9,7 @@ namespace ApiTester
 	{
 		static void Main(string[] args)
 		{
-			var uri = "http://avenger.com:12345";
+			var uri = "https://rev.com";
 			var redirectUri = "http://www.google.com";
 			var code = "code";
 			var apiKey = "ABC";
